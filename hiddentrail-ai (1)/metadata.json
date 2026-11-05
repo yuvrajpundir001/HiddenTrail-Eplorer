@@ -1,0 +1,6 @@
+{
+  "name": "HiddenTrail AI",
+  "description": "AI-powered local tourism discovery platform for Gurugram and Haryana heritage, nature, and hidden destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
